@@ -75,7 +75,7 @@ int main() {
     
     return 0;
 }
-``
+```
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/ba1f3488-0f1d-409b-b769-d429f2d4955a)
